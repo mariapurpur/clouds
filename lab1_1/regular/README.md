@@ -22,4 +22,33 @@
 
 ## Конфигурация
 
-сюда шаги с конфигурацией и далее
+  Далее мы настроили конфигурация сайта, чтобы мы могли перейти на сайт не только по домену `giper-minecraft.com`, но и `www.giper-minecraft.com`. Указываем, куда нам нужно переходить по директории, а если прохода нет, тогда выдаётся ошибка 404 (кстати, она у нас кастомная).
+
+Для giper-minecraft.com:
+```
+server {
+        listen 80;
+        server_name giper-minecraft.com www.giper-minecraft.com;
+
+        location / {
+            root /var/www/giper-minecraft.com/html;
+            index minecraft-test.html;
+            try_files $uri $uri/ /minecraft-test.html =404;
+        }
+}
+```
+
+Для super-roblox.com:
+```
+server {
+        listen 80;
+        server_name super-roblox.com www.super-roblox.com;
+
+        location / {
+            root /var/www/super-roblox.com/html;
+            index roblox-test.html;
+            try_files $uri $uri/ /roblox-test.html =404;
+        }
+}
+```
+
