@@ -52,10 +52,24 @@ server {
 }
 ```
 
+  Всё это мы делали в первый день и составляли схему brainstorm'а. Фото прилагается :)
+
+  <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4a60b040-64fa-4d88-b102-e74d271f9e14" />
+
 ## Написание nginx.conf
 
-  Так как теперь у нас есть сайты, мы должны их перенести на сервер и начать работу с nginx.conf.
+  Так как теперь у нас есть сайты, мы должны их перенести на сервер и начать работу с `nginx.conf`.
 
+  Nginx отвечает за "коммуникацию" между клиентом и сервером. Для полноценной работы нам нужно написать файл `nginx.conf`, который находится в директории `/etc/nginx`.
+
+  Мы создали `/sites-conf`, `/var`.
+
+  <img width="983" height="691" alt="image" src="https://github.com/user-attachments/assets/734c24c5-1444-4f16-a7ac-7c4f9687d410" />
+
+  <img width="983" height="691" alt="image" src="https://github.com/user-attachments/assets/07423fc1-7021-4533-aa51-e05fee9bbd99" />
+
+  Внутренности файла `nginx.conf` выглядят следующим образом:
+  
 ## Вывод
 
   Мы навайбили ssl-сертификат и настроили сайты под требования лабораторной :)
