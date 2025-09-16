@@ -68,6 +68,10 @@ server {
 
   <img width="983" height="691" alt="image" src="https://github.com/user-attachments/assets/07423fc1-7021-4533-aa51-e05fee9bbd99" />
 
+  <img width="984" height="178" alt="image" src="https://github.com/user-attachments/assets/7476027f-9680-4db2-a741-507177e13e6e" />
+
+  <img width="984" height="178" alt="image" src="https://github.com/user-attachments/assets/32aae63e-d617-44d6-a6a6-6e1ea32b2f2f" />
+
   Внутренности файла `nginx.conf` выглядят следующим образом:
   
 ## Вывод
