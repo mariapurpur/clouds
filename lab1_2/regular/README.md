@@ -87,7 +87,11 @@ git: 'python3' is not a git command. See 'git --help'.
   
   А так же вот наше фото с совместной работы:  
 
-  <img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/97ef59fd-c262-4baa-979b-cd19f17893eb" />
+  <img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/97ef59fd-c262-4baa-979b-cd19f17893eb" />  
+
+  Так как наша коллега Соня не смогла присутствовать на последней сессии, она оставила голосовое сообщение. Мы посчитали, что это тоже должно быть в отчёте.  
+  
+  <img width="664" height="622" alt="image" src="https://github.com/user-attachments/assets/8185138a-a114-4533-8a16-ef4f4f6cfac6" />  
 
 ## Источники
 
