@@ -27,8 +27,8 @@
 
   Для начала мы вызываем на помощь github и `alpine:latest`. После этого сохраняем токен github, клонируем репозиторий, устанавливаем самые разные библиотеки (включая python3) и записываем в `new.py` единственную и неповторимую фразу `pәхим итегез`. Код выглядит так:  
   
-  <img width="1280" height="414" alt="image" src="https://github.com/user-attachments/assets/cc6f3400-d2d7-48f9-b715-fbef83c2dc5e" />  
-
+  <img width="1280" height="414" alt="image" src="https://github.com/user-attachments/assets/9de578f3-9bb5-48d0-8596-92b0a1d7d6a8" />  
+  
   Казалось бы, всё выполнено и в целом, мы уже показали, что не стоит использовать из списка выше. Однако при проверке работоспособности, сталкиваемся с проблемой и ошибкой:
 ```
 git: 'python3' is not a git command. See 'git --help'.
@@ -45,8 +45,8 @@ git: 'python3' is not a git command. See 'git --help'.
   
   Нашей радости не было конца. Вот как выглядел код теперь:  
 
-  <img width="1280" height="414" alt="image" src="https://github.com/user-attachments/assets/89c56b50-e1b3-44c1-915b-a0558130f79b" />  
-
+  <img width="1280" height="414" alt="image" src="https://github.com/user-attachments/assets/e351153f-c972-4af9-aa65-c8ec1b37959a" />  
+  
   <img width="1280" height="450" alt="image" src="https://github.com/user-attachments/assets/0bab30f0-2d44-42a2-8941-8a8cdecc4d8e" />  
 
 ## Пишем Dockerfile с good practicies
