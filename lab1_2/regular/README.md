@@ -1,6 +1,6 @@
 # Лабораторная работа №2 (без звёздочки)
 
-## Рәхим итегес!
+## Рәхим итегез!
 
 <img width="233" height="300" alt="image" src="https://github.com/user-attachments/assets/35fbfafa-a6ec-4a87-8580-13a9a61e342d" />
 
