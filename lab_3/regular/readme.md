@@ -56,6 +56,11 @@
 
   <img width="614" height="209" alt="image" src="https://github.com/user-attachments/assets/151aa566-c448-4ac2-985a-5e73c7ce1214" />  
 
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/20210fd9-041e-43ac-94c4-3a03ca0a1e95" />
+
+## Попытки реализовать пайплайн  
+
+  text here  
   
 ## Источники
 
