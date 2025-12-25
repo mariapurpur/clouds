@@ -1,0 +1,12 @@
+stages:
+  - test
+
+good-guy:
+  stage: test
+  image: alpine:latest
+  variables:
+    KEY: ""
+    PASS: ""
+  script:
+    - echo "рэхим итегес"
+    - echo "0_0"
