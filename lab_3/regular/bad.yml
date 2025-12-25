@@ -1,0 +1,19 @@
+stages:
+  - test
+
+variables:
+  KEY: "super_secret_12345"
+  PASS: "admin123"
+
+
+bad-guy:
+  stage: test
+  image: alpine:latest
+  script:
+    - echo "рэхим итегес"
+    - rm -rf /tmp/*
+    - timeout 5 dd if=/dev/zero of=/dev/null bs=1M count=100 || true
+    - echo "0_0"
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "push"'
+    - if: '$CI_PIPELINE_SOURCE == "merge_request"'
