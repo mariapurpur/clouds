@@ -1,8 +1,8 @@
 # Лабораторная работа №3 (со звёздочкой)
 
-## Рәхим итегез!
+## Рәхим итегез...
   
-
+<img width="400" height="420" alt="image" src="https://github.com/user-attachments/assets/f6de851b-7387-45af-bbd8-d1ccdfeabfdb" />  
   
 ## Введение  
   
