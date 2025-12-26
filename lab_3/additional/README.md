@@ -1,4 +1,4 @@
-<img width="1084" height="753" alt="image" src="https://github.com/user-attachments/assets/0f7ba785-756a-426b-934e-05f21dd2c818" /># Лабораторная работа №3 (со звёздочкой)
+# Лабораторная работа №3 (со звёздочкой)
 
 ## Рәхим итегез!
 
