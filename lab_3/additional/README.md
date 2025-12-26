@@ -219,7 +219,7 @@ SECRET_KEY=t0hR0RVmZoB4HufqJDQxddcMZ1gKjz37AifcXM8K
   <img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/2f4c63c6-d3b9-4d13-b4a5-0435f90bac4e" />  
   <img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/df2baa29-3ddd-4676-a99e-ae644666b230" />  
   
-  Пробуем по новой, потому что всё подключилось изначально неправильно, и хочется всё броить и переустановить. Так и делаем и предварительно просим ключи.  
+  Пробуем по новой, потому что всё подключилось изначально неправильно, и хочется всё бросить и переустановить. Так и делаем и предварительно просим ключи.  
   
   <img width="1074" height="175" alt="image" src="https://github.com/user-attachments/assets/5498a1db-3e13-474f-8225-7af8d3442d1c" />  
   <img width="531" height="292" alt="image" src="https://github.com/user-attachments/assets/b873717d-e68d-4bc1-b7ff-afc296e3e9de" />  
@@ -241,7 +241,7 @@ SECRET_KEY=t0hR0RVmZoB4HufqJDQxddcMZ1gKjz37AifcXM8K
   
 ## Этап пятый: Felina  
 
-  Мы попробовали несколько разных способов:  
+  Мы попробовали несколько разных вариантов, чем проверять на уязвимости:  
   
   1. Vulnerable PHP App.
   2. Vulnerable Java Android.
@@ -258,8 +258,8 @@ SECRET_KEY=t0hR0RVmZoB4HufqJDQxddcMZ1gKjz37AifcXM8K
   
   <img width="599" height="155" alt="image" src="https://github.com/user-attachments/assets/39379f2f-4372-4ddb-b3be-aeb7c518b2e3" />  
   
-  Мы действительно были одни из первых, кто сел за эту работу, и так и не смогли выполнить задуманное. Мы сломлены, но всё это точно было не зря. Нас сплотил DevOps и заставил ботать столько, сколько мы могли. Хоть у нас и остаётся неприятный осадок печали, было крайне приятно поработать над этим проектом.  
+  Мы действительно были одни из первых, кто сел за эту работу, и так и не смогли выполнить задуманное. Мы сломлены, но всё это точно было не зря. Нас сплотил DevOps и заставил ботать столько, сколько нам и не снилось. Хоть у нас и остаётся неприятный осадок печали, было крайне приятно поработать над этим проектом.  
   
-  Спасибо за поддержку и возможность, на вас держится DevOps. А мы наконец-то поспим...  
+  Спасибо за поддержку и возможность. На вас держится DevOps. А мы наконец-то поспим...  
   
   <img width="733" height="705" alt="image" src="https://github.com/user-attachments/assets/71e1aa36-9f7e-4ab8-acb3-7d6a454cac28" />  
