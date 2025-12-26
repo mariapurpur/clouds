@@ -15,5 +15,5 @@
 
 ---
 ## Облака ##
-• [Лабораторная работа №1](https://github.com/mariapurpur/clouds/blob/main/clouds_1/report_1.md)
-• [Лабораторная работа №2](https://github.com/mariapurpur/clouds/blob/main/clouds_2/report_2.md)
+• [Лабораторная работа №1](https://github.com/mariapurpur/clouds/blob/main/clouds_1/report_1.md)  
+• [Лабораторная работа №2](https://github.com/mariapurpur/clouds/blob/main/clouds_2/report_2.md)  
